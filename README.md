@@ -20,13 +20,13 @@ information. Subjects where tests are not complete or samples are not submitted 
 
 
 
-[Alabama](#Alabama)
+ # [Alabama](#Alabama)
 
 #### -1343UMAL-Montgomery, struck by vehicle, 1986
-http://wAvw.doenetwork.org/cases/1343umal.html
+http://www.doenetwork.org/cases/1343umal.html
 
 #### -502UMAL/14028-Hendricksville, suicide by hanging from tree, 1991
-http://AVAVW.doenetwork.org/cases/502umal.html
+http://www.doenetwork.org/cases/502umal.html
 https://www.namus.gOv/UnidentifiedPersons/Case#/14028
 
 #### -1703UMAL-Mobile, unknown cause of death, 1997
@@ -74,15 +74,15 @@ http://www.doenetwork.org/cases/835ufal.html
 
 
 
-[Alaska](#Alaska)
+ # [Alaska](#Alaska)
 
 #### -1148UMAK/7280-Anchorage, unknown cause of death, 2001
-http://wAvw.doenetwork.org/cases/1148umak.html
+http://www.doenetwork.org/cases/1148umak.html
 https://www.namus.gOv/UnidentifiedPersons/Case#/7280
 
 
 
-[Arizona](#Arizona)
+ # [Arizona](#Arizona)
 
 #### -2256UMAZ/2076-Maricopa County, unknown cause of death, found under construction debris
 desert, 1973
@@ -90,7 +90,7 @@ http://www.doenetwork.org/cases/2256umaz.html
 https://wAVW.namus.gOv/UnidentifiedPersons/Case#/2076
 
 #### -90UMAZ-Gadsden, unknown cause of death yet partially burned, 1975
-http://AVAVW.doenetwork.org/cases/90umaz.html
+http://www.doenetwork.org/cases/90umaz.html
 
 #### -327UMAZ/7227-Cochise County, unknown cause of death, 1976
 http://AVAAQV.doenetwork.org/cases/327umaz.html
@@ -98,15 +98,15 @@ https://www.namus.gOv/UnidentifiedPersons/Case#/7227
 
 #### -2257UMAZ/1896-Maricopa County, unknown cause of death, charred remains, 1977
 http://www.doenetwork.org/cases/2257umaz.html
-https://wAvw.namus.gOv/UnidentifiedPersons/Case#/1896
+https://www.namus.gOv/UnidentifiedPersons/Case#/1896
 
 #### -985UMAZ/1900-Maricopa County, victim of auto accident, 1982
-http://AVAVW.doenetwork.org/cases/985umaz.html
+http://www.doenetwork.org/cases/985umaz.html
 https://www.namus.gOv/UnidentifiedPersons/Case#/1900
 
 #### -1190UMAZ/1901-Phoenix, unknown cause of death, 1983
 http://www.doenetwork.org/cases/1190umaz.html
-https://wAvw.namus.gOv/UnidentifiedPersons/Case#/1901
+https://www.namus.gOv/UnidentifiedPersons/Case#/1901
 
 #### -1631UMAZ/1902-Phoenix, blunt force trauma to the head, 1983
 http://wAVW.doenetwork.org/cases/1631umaz.html
@@ -125,12 +125,12 @@ http://www.doenetwork.org/cases/2261umaz.html
 https://wAVW.namus.gOv/UnidentifiedPersons/Case#/2073
 
 #### -2264UMAZ/1908-Maricopa County, unknown cause of death, possible hiking accident, 1986
-http://AVAVW.doenetwork.org/cases/2264umaz.html
+http://www.doenetwork.org/cases/2264umaz.html
 https://www.namus.gOv/UnidentifiedPersons/Case#/1908
 
 #### -1371UMAZ/1913-Phoenix, death from injuries sustained after unspecified assault, 1987
 http://www.doenetwork.org/cases/1371umaz.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/1913
+https://www.namus.gov/UnidentifiedPersons/Case#/1913
 
 #### -1125UMAZ-Phoenix, struck by a vehicle, 1987
 http://AVAAQV.doenetwork.org/cases/1125umaz.html
@@ -267,7 +267,7 @@ http://www.doenetwork.org/cases/2328umaz.html
 https://www.namus.gov/UnidentifiedPersons/Case#/548
 
 #### -1312UMAZ/4952-Tucson, unknown cause of death, 2007
-http://AVAVW.doenetwork.org/cases/1312umaz.html
+http://www.doenetwork.org/cases/1312umaz.html
 https://www.namus.gOv/UnidentifiedPersons/Case#/4952
 
 #### -1222UMAZ/2630-Tucson, unknown cause of death, found in Saguaro National Park East, 2007
@@ -279,7 +279,7 @@ http://www.doenetwork.org/cases/1358umaz.html
 https://www.namus.gov/UnidentifiedPersons/Case#/5152
 
 #### -1193UFAZ/9859-Grand Canyon, death by homicide, location of remains currently unknown, 1958
-http://wAvw.doenetwork.org/cases/1193ufaz.html
+http://www.doenetwork.org/cases/1193ufaz.html
 https://www.namus.gov/UnidentifiedPersons/Case#/9859
 
 #### -795UFAZ-Pima County, unknown cause of death, 1979
@@ -295,7 +295,7 @@ https://www.namus.gOv/UnidentifiedPersons/Case#/7829
 
 #### -371UFAZ/11668-Marana, homicide by blunt force trauma, burned remains, 1984
 http://www.doenetwork.org/cases/371ufaz.html
-https://wAvw.namus.gOv/UnidentifiedPersons/Case#/11668
+https://www.namus.gOv/UnidentifiedPersons/Case#/11668
 
 #### -1130UFAZ/7193-Stanfield, unknown cause of death, 1987
 http://AyAvw.doenetwork.org/cases/l 130ufaz.html
@@ -331,7 +331,7 @@ https://www.namus.gov/UnidentifiedPersons/Cae#/5573
 
 
 
-[Arkansas](#Arkansas)
+ # [Arkansas](#Arkansas)
 
 #### -2877UMAR/5459-Mt. Magazine, unknown cause of death, found in gravel pit, 1970
 http://www.doenetwork.org/cases/2877umar.html
@@ -350,7 +350,7 @@ http://www.doenetwork.org/cases/2879umar.html
 https://www.namus.gOv/UnidentifiedPersons/Case#/6646
 
 #### -2836UMAR/5157-Helena, probable homicide, found dismembered in Mississippi River, 1978
-http://wAvw.doenetwork.org/cases/2836umar.html
+http://www.doenetwork.org/cases/2836umar.html
 https://www.namus.gov/UnidentifiedPersons/Case#/5157
 
 #### -2835UMAR/5156-North Little Rock, unknown cause of death, found lying on newspapers in a shed,
@@ -363,7 +363,7 @@ http://www.doenetwork.org/cases/1882umar.html
 https://wAVW.namus.gOv/UnidentifiedPersons/Case#/5162/details
 
 #### -2838UMAR/5413-Heth, immolated in abandoned house, DNA samples unlikely due to charring, 1980
-http://AVAVW.doenetwork.org/cases/2838umar.html
+http://www.doenetwork.org/cases/2838umar.html
 https://www.namus.gov/UnidentifiedPersons/Case#/5413
 
 #### -2839UMAR/5427-Garfield, unknown cause of death, found in field, 1981
@@ -385,12 +385,12 @@ https://www.namus.gOv/UnidentifiedPersons/Case#/3127/details
 
 #### -1891UMAR/2851-Baxter County, unknown cause of death, found floating in the Howard Creek arm
 of Bull Shoals Lake, 1989
-http://AVAVW.doenetwork.org/cases/1891umar.html
+http://www.doenetwork.org/cases/1891umar.html
 https://www.namus.gOv/UnidentifiedPersons/Case#/2851/details
 
 #### -1893UMAR/2881 -Dumas, unknown cause of death, found floating in Mississippi River, 1990
 http://www.doenetwork.org/cases/1893umar.html
-https://wAvw.namus.gOv/UnidentifiedPersons/Case#/2881/details
+https://www.namus.gOv/UnidentifiedPersons/Case#/2881/details
 
 #### -1210UMAR/3078-Malvern, homicide by stabbing, found on shoulder of 1-30, 1991
 
@@ -407,7 +407,7 @@ http://www.doenetwork.org/cases/1320ufar.html
 https://wAVW.namus.gOv/UnidentifiedPersons/Case#/5182
 
 #### -940UFAR/3126-Marianna, unknown cause of death, found in the Mississippi River, 1983
-http://AVAVW.doenetwork.org/cases/940ufar.html
+http://www.doenetwork.org/cases/940ufar.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3126
 
 #### -942UFAR/2885-Mellwood, unknown cause of death, found floating in the Mississippi River, 1989
@@ -416,7 +416,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/2885
 
 
 
-[California](#California)
+ # [California](#California)
 
 #### -2229UMCA/8893-Verdamont, hit by truck on Cajon Highway, 1930
 http://www.doenetwork.org/cases/2229umca.html
@@ -495,7 +495,7 @@ http://www.doenetwork.org/cases/2403umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/8366
 
 #### -2404UMCA/9569-Half moon bay, unknown cause of death, 1951
-http://wAvw.doenetwork.org/cases/2404umca.html
+http://www.doenetwork.org/cases/2404umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/9569
 
 #### -2405UMCA/11601-Orange County, unknown cause of death, 1953
@@ -503,7 +503,7 @@ http://www.doenetwork.org/cases/2405umca.html
 https://wAVW.namus.gov/UnidentifiedPersons/Case#/11601
 
 #### -2406UMCA/9570-Half Moon Bay, unknown cause of death, found as a torso,
-http://AVAVW.doenetwork.org/cases/2406umca.html
+http://www.doenetwork.org/cases/2406umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/9570
 
 #### -2242UMCA/7708-West Sacramento, death by drowning, 1960
@@ -1099,7 +1099,7 @@ http://www.doenetwork.org/hot/hotcasel83.html
 
 #### -469UMCA/5929-San Francisco, unknown cause of death, found floating in bay, 1990
 http://www.doenetwork.org/cases/469umca.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/5929
+https://www.namus.gov/UnidentifiedPersons/Case#/5929
 
 #### -HC184-Los Angeles, found collapsed on street, 1990
 http://AVAAOv.doenetwork.org/hot/hotcasel84.html
@@ -1127,7 +1127,7 @@ http://www.doenetwork.org/cases/971umca.html
 https://www.namus.gov/UnidentifiedPersons/Csse#/3885
 
 #### -HC 1294-Riverside County, u nkn own cause of death, found partially mummified in a ravine, 1990
-http://wAvw.doenetwork.org/hot/hotcasel294.html
+http://www.doenetwork.org/hot/hotcasel294.html
 
 #### -HC300-Gardena, struck by vehicle, last seen intoxicated at a nightclub, 1990
 http://AVWw.doenetwork.org/hot/hotcase300.html
@@ -1136,7 +1136,7 @@ http://AVWw.doenetwork.org/hot/hotcase300.html
 http://AVAAov.doenetwork.org/cases/1614umca.html
 
 #### -2755UMCA-Ragged Point, found dismembered in several bags, 1990
-http://AVAVW.doenetwork.org/cases/2755umca.html
+http://www.doenetwork.org/cases/2755umca.html
 
 #### -HC341-Walnut, unknown cause of death, found near railroad tracks, 1990
 http://AVAvw.doenetwork.org/hot/hotcase34 1.html
@@ -1152,7 +1152,7 @@ residence, 1991
 http://www.doenetwork.org/hot/hotcase911.html
 
 #### -83lUMCA-Los Angeles, unknown cause of death, found on sidewalk, 1991
-http://wAvw.doenetwork.org/cases/831umca.html
+http://www.doenetwork.org/cases/831umca.html
 
 #### -489UMCA/7449-Clarksburg, unknown cause of death, skeletal remains found near the Sacramento
 River, 1991
@@ -1160,7 +1160,7 @@ http://www.doenetwork.org/cases/489umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/7449
 
 #### -844UMCA-Compton, homicide by firearm, 1991
-http://AVAVW.doenetwork.org/cases/844umca.html
+http://www.doenetwork.org/cases/844umca.html
 
 #### -HC337-Los Angeles, struck by vehicle, 1991
 http://AVAAoy.doenetwork.org/hot/hotcase337.html
@@ -1172,25 +1172,25 @@ http://AVAVw.doenetwork.org/hot/hotcase338.html
 http://AVAAoy.doenetwork.org/hot/hotcase323.html
 
 #### -HC328-Los Angeles, unknown cause of death, found collapsed on street comer, 1991
-http://AVAVW.doenetwork.org/hot/hotcase328.html
+http://www.doenetwork.org/hot/hotcase328.html
 
 #### -HC 1296-Riverside County, probable homicide due to shallow grave, 1991
 http://AVAAOv.doenetwork.org/hot/hotcasel296.html
 
 #### -807UMCA-Los Angeles County, unknown cause of death, was living among the homeless population
 for more than 2years, 1991
-http://wAvw.doenetwork.org/cases/807umca.html
+http://www.doenetwork.org/cases/807umca.html
 
 #### -HC322-Long Beach, collapsed from unknown causes in a local resident’s yard, 1991
 http://AVAvw.doenetwork.org/hot/hotcase322.html
 
 #### -HC342-Canoga Park, unknown cause of death, found in abandoned building, 1991
-http://AVAVW.doenetwork.org/hot/hotcase342.html
+http://www.doenetwork.org/hot/hotcase342.html
 
 #### -3206UMCA/3855-Los Angeles, unknown cause of death before burning, found in the trunk of an
 abandoned vehicle, 1991
 http://www.doenetwork.org/cases/3206umca.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/3855
+https://www.namus.gov/UnidentifiedPersons/Case#/3855
 #### -HC170-San Francisco, unknown cause of death, found on street, 1991
 http://AyAvw.doenetwork.org/hot/hotcasel 70.html
 
@@ -1214,7 +1214,7 @@ http://www.doenetwork.org/hot/hotcasel297.html
 http://www.doenetwork.org/hot/hotcase362.html
 
 #### -3069UMCA/3844-Los Angeles, bicyclist struck by vehicle, 1991
-http://wAvw.doenetwork.org/cases/3069umca.html
+http://www.doenetwork.org/cases/3069umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3844
 
 #### -HC303-Hollywood, homicide by firearm on street comer, 1991
@@ -1241,7 +1241,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/3837
 
 #### -1225UMCA/4975-San Diego, struck by vehicle, hit in Tijuana, knocked into the U.S. by the
 automobile, 1991
-http://AVAVW.doenetwork.org/cases/1225umca.html
+http://www.doenetwork.org/cases/1225umca.html
 
 #### -3215UMCA/3835-Los Angeles County, unknown cause of death, found burned behind dumpster, 1991
 http://AVAvw.doenetwork.org/cases/3215umca.html
@@ -1264,13 +1264,13 @@ http://www.doenetwork.org/cases/777umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/10527
 
 #### -HC1554/2764-San Diego, death by unspecified head trauma, cause unknown, 1992
-http://AVAVW.doenetwork.org/hot/hotcase/1554.html
+http://www.doenetwork.org/hot/hotcase/1554.html
 
 #### -HC913-Los Angeles County, unknown cause of death, found in dry riverbed, 1992
 http://AVAyw.doenetwork.org/hot/hotcase913.html
 
 #### -2614UMCA/3775-Los Angeles, possible death by drowning from intoxication, 1992
-http://AVAVW.doenetwork.org/cases/2614umca.html
+http://www.doenetwork.org/cases/2614umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3775
 
 #### -3136UMCA/2763-San Diego, unknown cause of death, found in alleyway, 1992
@@ -1324,25 +1324,25 @@ http://wAVW.doenetwork.org/cases/1004umca.html
 http://AVAAQV.doenetwork.org/hot/hotcase919.html
 
 #### -HC915-Los Angeles County, struck numerous times on Interstate 10, 1993
-http://AVAVW.doenetwork.org/hot/hotcase915.html
+http://www.doenetwork.org/hot/hotcase915.html
 
 #### -HC917-Hollywood, unknown cause of death, found on street, 1993
 http://AVAAQV.doenetwork.org/hot/hotcase917.html
 
 #### -HC1212-Los Angeles County, unknown cause of death, partial skull found in national forest, 1993
-http://AVAVW.doenetwork.org/hot/hotcase/1212.html
+http://www.doenetwork.org/hot/hotcase/1212.html
 
 #### -HC258-Santa Monica, unknown cause of death, found on hillside off of highway, 1993
 http://AVAAQV.doenetwork.org/hot/hotcase258.html
 
 #### -HC916-Los Angeles County, unknown cause of death, found in vacant lot, 1993
-http://AVAVW.doenetwork.org/hot/hotcase916.html
+http://www.doenetwork.org/hot/hotcase916.html
 
 #### -141 lUMCA-Los Angeles, suicide by cyanide poisoning, found in hotel room, 1993
 http://aaovw. doenetwork.org/cases/1411 umca.html
 
 #### -HC259-Chatsworth, unknown cause of death, found charred after a large fire broke out, 1993
-http://AVAVW.doenetwork.org/hot/hotcase259.html
+http://www.doenetwork.org/hot/hotcase259.html
 
 #### -3165UMCA/10529-Daly City, victim of possible unspecified homicide, found on San Bruno
 Mountain, 1993
@@ -1391,7 +1391,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/3618
 
 
 #### -706UMCA-Commerce, unknown cause of death, found at railyard, 1995
-http://wAvw.doenetwork.org/cases/706umca.html
+http://www.doenetwork.org/cases/706umca.html
 
 #### -3163UMCA/3613-Long beach, unknown cause of death, found floating in ocean, 1995
 http://AVAyw.doenetwork.Org/cases/3163umca.html
@@ -1414,7 +1414,7 @@ https://www.namus.gov/UnidentifiedPersons/Csse#/3579
 http://AVAvw.doenetwork.org/cases/261 Oumca.html
 
 #### -135UMCA-Placentia, death by unspecified traffic accident, 1996
-http://AVAVW.doenetwork.org/cases/135umca.html
+http://www.doenetwork.org/cases/135umca.html
 
 #### -3159UMCA/3529-Los Angeles, unknown cause of death, found under freeway overpass, 1996
 http://AyAvw.doenetwork.Org/cases/3159umca.html
@@ -1535,7 +1535,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/9682
 
 
 2001
-http://wAvw.doenetwork.org/cases/828umca.html
+http://www.doenetwork.org/cases/828umca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3357
 
 #### -675UMCA-Vernon, hit by semi truck while on bicycle, 2001
@@ -1558,7 +1558,7 @@ http://AVAVw.doenetwork.org/cases/3094umca.html
 http://AVAAov.doenetwork.org/cases/965umca.html
 
 #### -921UMCA-Riverside County, struck by car on freeway, 2006
-http://AVAVW.doenetwork.org/cases/921umca.html
+http://www.doenetwork.org/cases/921umca.html
 
 #### -3205UMCA/912-Landers, unknown cause of death, skeleton found scattered in desert, 2006
 http://AVAAOv.doenetwork.org/cases/3205umca.html
@@ -1581,7 +1581,7 @@ http://www.doenetwork.org/cases/225ufca.html
 
 #### -1205UFCA/2994-Lancaster, gunshot wound to the head, found buried in homemade coffin, 1968
 http://www.doenetwork.org/cases/1205ufca.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/2994
+https://www.namus.gov/UnidentifiedPersons/Case#/2994
 
 #### -1218UFCA-Sonoma County, drowning, unknown circumstances, 1969
 WAAQv.doenetwork.org/cases/1218ufca.html
@@ -1599,7 +1599,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/16065
 
 #### -1062UFCA/7771-West Sacramento, unknown cause of death, skeleton found on riverbank, 1960
 http://www.doenetwork.org/cases/1062ufca.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/7771
+https://www.namus.gov/UnidentifiedPersons/Case#/7771
 
 #### -1061UFCA-Kern County, unknown cause of death, skeleton found in desert, 1961
 http://www.doenetwork.org/cases/1061 ufca.html
@@ -1677,7 +1677,7 @@ ditch, 1975
 http://www.doenetwork.org/cases/110ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/7143
 #### -1365UFCA/4457-Los Angeles, accidental/suicidal fall from hotel window, 1975
-http://wAvw.doenetwork.org/cases/1365ufca.html
+http://www.doenetwork.org/cases/1365ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4457
 
 #### -1373UFCA/4456-Los Angeles County, probable drug overdose at party, 1975
@@ -1707,7 +1707,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4449
 
 
 #### -548UFCA/4448-Hacienda Heights, unknown cause of death, found off of roadway, 1976
-http://wAvw.doenetwork.org/cases/548ufca.html
+http://www.doenetwork.org/cases/548ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4448
 
 #### -1378UFCA/7218-Indio, homicide by firearm, found with no hands and burnt, 1977
@@ -1720,7 +1720,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4442
 
 #### -1450UFCA/4436-Los Angeles County, unknown cause of death, unknown circumstances, 1977
 http://www.doenetwork.org/cases/145Oufca.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/4436
+https://www.namus.gov/UnidentifiedPersons/Case#/4436
 
 #### -62UFCA/7649-Anaheim, suicide by jumping in front of oncoming train, 1977
 http://AVAVw.doenetwork.org/cases/62ufca.html
@@ -1811,7 +1811,7 @@ http://www.doenetwork.org/cases/1476ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/11737
 
 #### -1445UFCA/4317-Los Angeles, unknown cause of death, found in hotel room, 1981
-http://wAvw.doenetwork.org/cases/1445ufca.html
+http://www.doenetwork.org/cases/1445ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4317
 
 #### -17UFCA/7654-Laguna beach, death by unspecified traffic accident, 1982
@@ -1819,12 +1819,12 @@ http://www.doenetwork.org/cases/17ufca.html
 https://wAVW.namus.gov/UnidentifiedPersons/Case#/7654
 
 #### -1452UFCA/7400-Sierra County, possible homicide, infant floating in trash bag in river, 1982
-http://AVAVW.doenetwork.org/cases/1452ufca.html
+http://www.doenetwork.org/cases/1452ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/7400
 
 #### -1447UFCA/4300-La Canada, unknown cause of death, found on or near highway, 1982
 http://www.doenetwork.org/cases/1447ufca.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/4300
+https://www.namus.gov/UnidentifiedPersons/Case#/4300
 
 #### -1022UFCA/7655-EL Toro, unknown cause of death, possible homicide, found in drainage ditch, 1982
 http://AVAAoy.doenetwork.org/cases/1022ufca.html
@@ -1903,7 +1903,7 @@ http://www.doenetwork.org/cases/451ufca.html
 https://wAVW.namus.gov/UnidentifiedPersons/Case#/4106
 
 #### -24UFCA/7663-Santa Ana, homicide by stabbing, found in public park, 1988
-http://AVAVW.doenetwork.org/cases/24ufca.html
+http://www.doenetwork.org/cases/24ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/7663
 
 #### -138UFCA/4024-Maywood, unknown cause of death, infant found in restroom of local business, 1988
@@ -1980,7 +1980,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/7042
 
 
 #### -473UFCA/3699-Los Angeles, unknown cause of death, found on park bench, 1994
-http://wAvw.doenetwork.org/cases/473ufca.html
+http://www.doenetwork.org/cases/473ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3699
 
 #### -440UFCA/3673-Tujunga, homicide by strangulation, set on fire in canyon, 1994
@@ -1996,12 +1996,12 @@ http://www.doenetwork.org/cases/378ufca.html
 https://www.namus.gov/UnidentifiedPersons/Csse#/17579
 
 #### -1455UFCA/3590-La Puente, hit by train, 1995
-http://AVAVW.doenetwork.org/cases/1455ufca.html
+http://www.doenetwork.org/cases/1455ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3590
 
 #### -1456UFCA/3586-Valencia, unknown cause of death, found in a cardboard box on roadside, 1995
 http://www.doenetwork.org/cases/1456ufca.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/3586
+https://www.namus.gov/UnidentifiedPersons/Case#/3586
 
 #### -1458UFCA/7037-Blythe, unknown cause of death, found in several trash bags in a rural area, 1995
 http :/AyAvw.doenetwork.org/cases/1458ufca.html
@@ -2083,7 +2083,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/3033
 
 
 trees, 2007
-http://wAvw.doenetwork.org/cases/676ufca.html
+http://www.doenetwork.org/cases/676ufca.html
 https://www.namus.gov/UnidentifiedPersons/Case#/2963
 
 Colorado:
@@ -2216,7 +2216,7 @@ http://www.doenetwork.org/cases/2539umco.html
 
 
 #### -631UMCO/10386-Brighton, death by exposure, infant found abandoned near shop, 2002
-http://wAvw.doenetwork.org/cases/631umco.html
+http://www.doenetwork.org/cases/631umco.html
 https://www.namus.gov/UnidentifiedPersons/Case#/10386
 
 #### -2540UMCO/15492-Garfield County, unknown cause of death, skull found in Colorado River, 2003
@@ -2238,7 +2238,7 @@ http://www.doenetwork.org/cases/2546umco.html
 #### -2541UMCO-Alamosa County, unknown cause of death, found in a shallow grave on private land,
 
 2008
-http://AVAVW.doenetwork.org/cases/2541umco.html
+http://www.doenetwork.org/cases/2541umco.html
 
 #### -2547UMCO/11317-Pueblo, unknown cause of death, found in field near river, 2013
 http://AVAAoy.doenetwork.org/cases/2547umco.html
@@ -2246,7 +2246,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/l 1317
 
 #### -1083UFCO/14826-Blackhawk, blunt force trauma to the head and set on fire, found in gravel pit, 1952
 http://www.doenetwork.org/cases/1083ufco.html
-https://wAvw.namus.gov/UnidentifiedPersons/Case#/14826
+https://www.namus.gov/UnidentifiedPersons/Case#/14826
 
 #### -1241UFCO-Colorado Springs, death by unspecified homicide, infant found at sewage plant, 1971http://www.doenetwork.org/cases/1241 ufco.html
 
@@ -2286,7 +2286,7 @@ https://www.namus.gov/UnidentifiedPersons/Cae#/15551
 
 
 1995
-http://wAvw.doenetwork.org/cases/1243ufco.html
+http://www.doenetwork.org/cases/1243ufco.html
 
 #### -1240UFCO/12550-Silver Plume, unknown cause of death, unknown circumstances, 2014
 http://AVAAQV.doenetwork.org/cases/1240ufco.html
@@ -2309,7 +2309,7 @@ https://wAVW.namus.gov/UnidentifiedPersons/Case#/2262
 
 
 
-[Florida](#Florida)
+ # [Florida](#Florida)
 
 #### -2238UMFL/6842-Miami, unknown cause of death, found by hunters, 1957
 http://AAOvw.doenetwork.org/cases/2238umfl.html
@@ -3660,7 +3660,7 @@ https://www.namus.gOv/UnidentifiedPersons/Case#/10162
 
 
 
-[Georgia](#Georgia)
+ # [Georgia](#Georgia)
 
 #### -1331UMGA-Canton, unknown cause of death, unknown circumstances, 1969
 http://www.doenetwork.org/cases/1331umga.html
@@ -4006,7 +4006,7 @@ https://www.namus.gOv/UnidentifiedPersons/Case#/12930
 
 
 
-[Indiana](#Indiana)
+ # [Indiana](#Indiana)
 
 #### -843UMIN-Floyd County, homicide by firearm, found in drain culvert, 1977
 http://www.doenetwork.org/cases/843umin.html
@@ -4061,7 +4061,7 @@ http://www.doenetwork.org/cases/180ufm.html
 
 
 
-[Iowa](#Iowa)
+ # [Iowa](#Iowa)
 
 ##### -2UMIA/2620-Decorah, cause of death unknown, found lodged between hay bales, 1986
 http://www.doenetwork.org/cases/2umia.html
@@ -4069,7 +4069,7 @@ https://www.namus.gOv/UnidentifiedPersons/Case#/2620
 
 
 
-[Kansas](#Kansas)
+ # [Kansas](#Kansas)
 
 #### -1719UMKS/2353-Upland, homicide by small caliber firearm, 1974
 http://www.doenetwork.org/cases/1719umks.html
