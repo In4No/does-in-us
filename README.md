@@ -22,7 +22,7 @@ information. Subjects where tests are not complete or samples are not submitted 
 
 [Alabama](#Alabama)
 
-### -1343UMAL-Montgomery, struck by vehicle, 1986
+#### -1343UMAL-Montgomery, struck by vehicle, 1986
 http://wAvw.doenetwork.org/cases/1343umal.html
 
 ### -502UMAL/14028-Hendricksville, suicide by hanging from tree, 1991
