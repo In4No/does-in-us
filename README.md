@@ -19,8 +19,58 @@ have DNA available, the data that this list is working from may not have been up
 information. Subjects where tests are not complete or samples are not submitted are also listed.
 
 
+[Alabama](https://github.com/In4No/does-in-us/blob/master/README.md#Alabama")
+[Alaska](https://github.com/In4No/does-in-us/blob/master/README.md#Alaska")
+[Arizona](https://github.com/In4No/does-in-us/blob/master/README.md#Arizona")
+[Arkansas](https://github.com/In4No/does-in-us/blob/master/README.md#Arkansas")
+[California](https://github.com/In4No/does-in-us/blob/master/README.md#California")
+[Colorado](https://github.com/In4No/does-in-us/blob/master/README.md#Colorado")
+[Connecticut](https://github.com/In4No/does-in-us/blob/master/README.md#Connecticut")
+[Delaware](https://github.com/In4No/does-in-us/blob/master/README.md#Delaware")
+[Florida](https://github.com/In4No/does-in-us/blob/master/README.md#Florida")
+[Georgia](https://github.com/In4No/does-in-us/blob/master/README.md#Georgia")
+[Hawaii](https://github.com/In4No/does-in-us/blob/master/README.md#Hawaii")
+[Idaho](https://github.com/In4No/does-in-us/blob/master/README.md#Idaho")
+[Illinois](https://github.com/In4No/does-in-us/blob/master/README.md#Illinois")
+[Indiana](https://github.com/In4No/does-in-us/blob/master/README.md#Indiana")
+[Iowa](https://github.com/In4No/does-in-us/blob/master/README.md#Iowa")
+[Kansas](https://github.com/In4No/does-in-us/blob/master/README.md#Kansas")
+[Kentucky](https://github.com/In4No/does-in-us/blob/master/README.md#Kentucky")
+[Louisiana](https://github.com/In4No/does-in-us/blob/master/README.md#Louisiana")
+[Maine](https://github.com/In4No/does-in-us/blob/master/README.md#Maine")
+[Maryland](https://github.com/In4No/does-in-us/blob/master/README.md#Maryland")
+[Massachusetts](https://github.com/In4No/does-in-us/blob/master/README.md#Massachusetts")
+[Michigan](https://github.com/In4No/does-in-us/blob/master/README.md#Michigan")
+[Minnesota](https://github.com/In4No/does-in-us/blob/master/README.md#Minnesota")
+[Mississippi](https://github.com/In4No/does-in-us/blob/master/README.md#Mississippi")
+[Missouri](https://github.com/In4No/does-in-us/blob/master/README.md#Missouri")
+[Montana](https://github.com/In4No/does-in-us/blob/master/README.md#Montana")
+[Nebraska](https://github.com/In4No/does-in-us/blob/master/README.md#Nebraska")
+[Nevada](https://github.com/In4No/does-in-us/blob/master/README.md#Nevada")
+[New Hampshire](https://github.com/In4No/does-in-us/blob/master/README.md#New-Hampshire")
+[New York](https://github.com/In4No/does-in-us/blob/master/README.md#New-York")
+[North Carolina](https://github.com/In4No/does-in-us/blob/master/README.md#North-Carolina")
+[North Dakota](https://github.com/In4No/does-in-us/blob/master/README.md#North-Dakota")
+[Ohio](https://github.com/In4No/does-in-us/blob/master/README.md#Ohio")
+[Oklahoma](https://github.com/In4No/does-in-us/blob/master/README.md#Oklahoma")
+[Oregon](https://github.com/In4No/does-in-us/blob/master/README.md#Oregon")
+[Pennsylvania](https://github.com/In4No/does-in-us/blob/master/README.md#Pennsylvania")
+[Rhode Island](https://github.com/In4No/does-in-us/blob/master/README.md#Rhode-Island")
+[South Carolina](https://github.com/In4No/does-in-us/blob/master/README.md#South-Carolina")
+[South Dakota](https://github.com/In4No/does-in-us/blob/master/README.md#South-Dakota")
+[Tennessee](https://github.com/In4No/does-in-us/blob/master/README.md#Tennessee")
+[Texas](https://github.com/In4No/does-in-us/blob/master/README.md#Texas")
+[Utah](https://github.com/In4No/does-in-us/blob/master/README.md#Utah")
+[Vermont](https://github.com/In4No/does-in-us/blob/master/README.md#Vermont")
+[Virginia](https://github.com/In4No/does-in-us/blob/master/README.md#Virginia")
+[Washington](https://github.com/In4No/does-in-us/blob/master/README.md#Washington")
+[Washington D. C.](https://github.com/In4No/does-in-us/blob/master/README.md#Washington-D-C")
+[West Virginia](https://github.com/In4No/does-in-us/blob/master/README.md#West-Virginia")
+[Wisconsin](https://github.com/In4No/does-in-us/blob/master/README.md#Wisconsin")
+[Wyoming](https://github.com/In4No/does-in-us/blob/master/README.md#Wyoming")
 
- # [Alabama](#Alabama)
+
+# [Alabama](#Alabama)
 
 #### -1343UMAL-Montgomery, struck by vehicle, 1986
 http://www.doenetwork.org/cases/1343umal.html
@@ -2279,15 +2329,11 @@ http://www.doenetwork.org/cases/1238ufco.html
 #### -1242UFCO-Denver, death by unspecified homicide, unknown circumstances, 1994
 http://www.doenetwork.org/cases/1242ufco.html
 
-#### -642UFCO/15551-Montrose County, death by unspecified homicide, found on isolated forest road,
-1994
+#### -642UFCO/15551-Montrose County, death by unspecified homicide, found on isolated forest road,1994
 http://www.doenetwork.org/cases/642ufco.html
 https://www.namus.gov/UnidentifiedPersons/Cae#/15551
 
-#### -1243UFCO-Denver, death by unspecified possible homicide, found in grassy area near apartments,
-
-
-1995
+#### -1243UFCO-Denver, death by unspecified possible homicide, found in grassy area near apartments,1995
 http://www.doenetwork.org/cases/1243ufco.html
 
 #### -1240UFCO/12550-Silver Plume, unknown cause of death, unknown circumstances, 2014
@@ -5564,7 +5610,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/303
 http://www.doenetwork.org/cases/998ufnv.html
 https://www.namus.gov/UnidentifiedPersons/Case#/7713
 
-# [New Hampshire](#New Hampshire)
+# [New Hampshire](#New-Hampshire)
 
 #### -1716UMNH/11159-Salem, homicide by firearm, found in drainage pit, 1969
 http://www.doenetwork.org/cases/1716umnh.html
@@ -5829,7 +5875,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/1631/details
 
 
 
-[New York](#New York)
+[New York](#New-York)
 
 #### -120UMNY/9785-Tuxedo, unknown cause of death, homicide by firearm, found off of highway in
 creek, 1969
@@ -6258,7 +6304,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/5229
 
 
 
-[North Carolina](#North Carolina)
+[North Carolina](#North-Carolina)
 
 #### -1923UMNC/1001-Greensboro, struck by vehicle, 1975
 http://www.doenetwork.org/cases/1923umnc.html
@@ -6380,7 +6426,7 @@ http://www.doenetwork.org/cases/421ufinc.html
 https://www.namus.gov/UnidentifiedPersons/Case#/6213
 
 
-# [North Dakota](#North Dakota)
+# [North Dakota](#North-Dakota)
 
 #### -2071MND/921-Grand Forks, found in at landfill, sample not yet submitted, 2003
 http://www.doenetwork.org/cases/2071umnd.html
@@ -8127,7 +8173,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/11755
 http://www.doenetwork.org/cases/924ufwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/5673
 
-# [Washington D.C.](#Washington D.C.)
+# [Washington D.C.](#Washington-D-C)
 
 #### -2784UMDC/13808-Washington D.C., unknown cause of death, found in alleyway, 2003
 http://www.doenetwork.org/cases/2784umdc.html
