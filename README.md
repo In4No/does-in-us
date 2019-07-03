@@ -6862,7 +6862,9 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4535
 
 #### -2250UMTX/4536-Houston, death by drowning, found in ocean, 1965
 http://www.doenetwork.org/cases/2250umtx.html
-https://www.namus.gov/UnidentifiedPersons/Case#/4536-2448UMTX/4538-Houston, death by heart disease, found in abandoned house, 1969
+https://www.namus.gov/UnidentifiedPersons/Case#/4536
+
+#### -2448UMTX/4538-Houston, death by heart disease, found in abandoned house, 1969
 http://www.doenetwork.org/cases/2448umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4538
 
@@ -6881,6 +6883,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4542
 #### -HC1443/4543-Harris County, unknown cause of death, found in drainage ditch, 1971
 http://www.doenetwork.org/hot/hotcase/1443.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4543
+
 #### -HC2047/4544-Houston, unknown cause of death, found in bayou, 1971
 http://www.doenetwork.org/hot/hotcase2047.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4544
@@ -6911,11 +6914,13 @@ http://www.doenetwork.org/hot/hotcase/1771.html
 #### -HC1772/4558-Houston, unknown cause of death, found in abandoned home, 1975
 http://www.doenetwork.org/hot/hotcasel772.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4558
+
 #### -HC1395/4559-Rosenburg, unknown cause of death, found in river, 1976
 http://www.doenetwork.org/hot/hotcase/1395.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4559
+
 #### -311UMTX/4560-Houston, unknown cause of death, found on freeway, 1976
-http://www.doenetwork.Org/cases/31 lumtx.html
+http://www.doenetwork.Org/cases/311umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4560
 
 #### -302UMTX/4563-Travis County, death by unspecified homicide, unknown circumstances, 1976
@@ -6968,13 +6973,14 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4651
 #### -594UMTX-Harris County, unknown cause of death, unknown cause of death, 1979
 http://www.doenetwork.org/cases/594umtx.html
 
-#### -3197UMTX/679-San Jacinto County, unknown cause of death, found in wooded area off of highway,
-1979
+#### -3197UMTX/679-San Jacinto County, unknown cause of death, found in wooded area off of highway,1979
 http://www.doenetwork.org/cases/3197umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/679
+
 #### -968UMTX/4642-Port Arthur, unknown cause of death, found in ocean, 1985
 http://www.doenetwork.org/cases/968umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4642
+
 #### -HC1399/4639-Galveston, unknown cause of death, found in ocean, 1980
 http://www.doenetwork.org/hot/hotcasel399.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4639
@@ -6982,6 +6988,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4639
 #### -1203UMTX/4635-Houston, unknown cause of death, unknown circumstances, 1980
 http://www.doenetwork.org/cases/1203umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4635
+
 #### -1218UMTX/4624-Houston, homicide by firearm, unknown circumstances, 1981
 http://www.doenetwork.org/cases/1218umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4624
@@ -6993,16 +7000,19 @@ https://www.namus.gov/UnidentifiedPersons/Case#/2347
 #### -763UMTX/2348-Houston, unknown cause of death, found off of roadway, 1981
 http://www.doenetwork.org/cases/763umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/2348
+
 #### -761UMTX/4623-Houston, unknown cause of death, found on side of road, 1981
-http://www.doenetwork.org/cases/761 umtx.html
+http://www.doenetwork.org/cases/761umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4623
 
 #### -766UMTX/4621 -Houston, unknown cause of death, unknown circumstances, 1981
 http://www.doenetwork.org/cases/766umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4621
+
 #### -758UMTX/4619-Houston, unknown cause of death, found in ocean, 1981
 http://www.doenetwork.org/cases/758umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4619
+
 #### -148UMTX/4617-Montague County, struck by train, 1981
 http://www.doenetwork.org/cases/148umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4617
@@ -7010,6 +7020,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4617
 #### -596UMTX/4616-Houston, death by unspecified homicide, 1981
 http://www.doenetwork.org/cases/596umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4616
+
 #### -597UMTX/4612-Houston, unknown cause of death, found in alley, 1981
 http://www.doenetwork.org/cases/597umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4612
@@ -7044,6 +7055,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/733
 #### -HC1521/4588-Houston, unknown cause of death, found in bayou, 1983
 http://www.doenetwork.org/hot/hotcase/1521.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4588
+
 #### -696UMTX/4582-Lake Dallas, struck by vehicle on highway, 1983
 http://www.doenetwork.org/cases/696umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4582
@@ -7069,7 +7081,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4576
 
 #### -HC2051/924-Houston, unknown cause of death, found in vacant lot, 1984
 http://www.doenetwork.org/hot/hotcase2051.html
-http s://www.namus.gov/UnidentifiedPersons/Case#/924
+https://www.namus.gov/UnidentifiedPersons/Case#/924
 
 #### -HC1589-Fort Worth, unknown cause of death, found in railyard, 1984
 http://www.doenetwork.org/hot/hotcasel589.html
@@ -7091,7 +7103,7 @@ http://www.doenetwork.org/cases/58umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4517
 
 #### -1157UMTX-Giddings, unknown cause of death, found in wooded area, 1984
-http://www.doenetwork.org/cases/! 157umtx.html
+http://www.doenetwork.org/cases/157umtx.html
 
 #### -65UMTX/4508-Houston, death by drowning, found in bayou, 1984
 http://www.doenetwork.org/cases/65umtx.html
@@ -7210,12 +7222,13 @@ http://www.doenetwork.org/hot/hotcasel840.html
 #### -3109UMTX/2132-Houston, struck by vehicle, 1986
 http://www.doenetwork.org/cases/3109umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/2132
+
 #### -1512UMTX-Keller City, in vehicle involved in an accident, 1986
 http://www.doenetwork.org/cases/1512umtx.html
 
 #### -HC2123/4222-Mclennan County, unknown cause of death, unknown circumstances, 1987
 http://www.doenetwork.org/hot/hotcase2123.html
-https://www.namus.gov/UnidentifiedPersons/Case#/ 4222
+https://www.namus.gov/UnidentifiedPersons/Case#/4222
 
 #### -HC1539UMTX-Houston, unknown cause of death, found in wooded area, 1987
 
@@ -7227,6 +7240,7 @@ http://www.doenetwork.org/cases/1252umtx.html
 #### -2883UMTX/4183-Ponderosa, struck by vehicle, 1987
 http://www.doenetwork.org/cases/2883umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4183
+
 #### -42UMTX/4181-Houston, death by drowning, found in river, 1987
 http://www.doenetwork.org/cases/42umtx.html
 
@@ -7241,11 +7255,12 @@ http://www.doenetwork.org/hot/hotcase2216.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4152
 
 #### -1154UMTX-Tarrant County, death by unspecified homicide, found in rural field, 1987
-httpf/www.doenetwork.org/cases/l 154umtx.html
+http://www.doenetwork.org/cases/154umtx.html
 
 #### -59UMTX/4083-Missouri City, unknown cause of death, found in rural area, 1988
 http://www.doenetwork.org/cases/59umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4083
+
 #### -61UMTX/4075-Harris County, unknown cause of death, found in bayou, 1988
 http://www.doenetwork.org/cases/61umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4075
@@ -7256,8 +7271,6 @@ https://www.namus.gov/UnidentifiedPersons/Case#/2733
 
 #### -56UMTX/2180-Houston, struck by vehicle, 1988
 http://www.doenetwork.org/cases/56umtx.html
-
-
 https://www.namus.gov/UnidentifiedPersons/Case#/2180
 
 #### -55UMTX/4062-Georgetown, unknown cause of death, found in gully, 1988
@@ -7273,8 +7286,7 @@ http://www.doenetwork.org/hot/hotcasel798.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4058
 
 #### -54UMTX/4057-Frisco, homicide by stabbing, found on the side of highway, 1988
-
-' http://www.doenetwork.org/cases/54umtx.html
+http://www.doenetwork.org/cases/54umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4057
 
 #### -HC2214/4055-Hutchins, unknown cause of death, found in wooded area off of road, 1988
@@ -7287,8 +7299,6 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4054
 #### -HC1913/4053-E1 Paso County, unknown cause of death, unknown circumstances, 1989
 http://www.doenetwork.org/hot/hotcase/1913.html
 
-
-
 #### -HC2212/4502-Fort Worth, death by drowning, found in river, 1989
 http://www.doenetwork.org/hot/hotcase2212.html
 
@@ -7300,7 +7310,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4049
 http://www.doenetwork.org/hot/hotcase2211.html
 
 #### -1513UMTX/4020-Fort Worth, death by unspecified homicide, unknown circumstances, 1989
-http://www.doenetwork.Org/cases/l 513umtx.html
+http://www.doenetwork.Org/cases/513umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4020
 
 #### -HC1803/4013-Houston, unknown cause of death, found in shanty, 1989
@@ -7328,8 +7338,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/3961
 
 #### -HC2208/3959-Denton County, unknown cause of death, found in park, 1990
 http://www.doenetwork.org/hot/hotcase2208.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3959
+https://www.namus.gov/UnidentifiedPersons/Case#/3959
 
 #### -1309UMTX/3953-Houston, unknown cause of death, found in hotel room, 1990
 http://www.doenetwork.org/cases/1309umtx.html
@@ -7344,8 +7353,6 @@ https://www.namus.gov/UnidentifiedPersons/Case#/3966
 
 #### -431UMTX-Houston, struck by vehicle, 1991
 http://www.doenetwork.org/cases/431umtx.html
-
-
 
 #### -1514UMTX-Harris County, unknown cause of death, unknown circumstances, 1991
 http://www.doenetwork.org/cases/1514umtx.html
@@ -7376,20 +7383,16 @@ http://www.doenetwork.Org/cases/3110umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/736
 
 #### -189UMTX/3808-Brazoria County, death by drowning, found in ocean, 1993
-
 http://www.doenetwork.org/cases/189umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/ 3808
 
 #### -HC1914/3806-El Paso, unknown cause of death, found in alleyway, 1993
-
 http://www.doenetwork.org/hot/hotcase/1914.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3806
 
 #### -HC 1915/3805-El Paso, death by drowning, found in canal, 1993
-
-www.doenetwork.org/hot/hotcase/1915.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3805
+http://www.doenetwork.org/hot/hotcase/1915.html
+https://www.namus.gov/UnidentifiedPersons/Case#/3805
 
 #### -102UMTX-Port Arthur, unknown cause of death, unknown circumstances, 1993
 http://www.doenetwork.org/cases/102umtx.html
@@ -7401,17 +7404,16 @@ http://www.doenetwork.org/cases/196umtx.html
 http://www.doenetwork.org/cases/195umtx.html
 
 #### -1515UMTX-Harris County, unknown cause of death, found in bayou, 1994
-http://www.doenetwork.Org/cases/l 515umtx.html
+http://www.doenetwork.Org/cases/515umtx.html
 
 #### -HC1916/3772-E1 Paso, unknown cause of death, found burned in dumpster, 1994
 http://www.doenetwork.org/hot/hotcase/1916.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3772
+https://www.namus.gov/UnidentifiedPersons/Case#/3772
 
 #### -HC1621/3300-Houston, unknown cause of death, found with other Doe in field, 1994
-
 http://www.doenetwork.org/hot/hotcasel621.html
-http s://www.namus.gov/UnidentifiedPersons/Case#/3300
+https://www.namus.gov/UnidentifiedPersons/Case#/3300
+
 #### -HC1257-Houston, unknown cause of death, found in parking garage, 1994
 http://www.doenetwork.org/hot/hotcase/1257.html
 
@@ -7430,8 +7432,7 @@ http://www.doenetwork.org/hot/hotcase/1917.html
 
 #### -HC1918/3724-El Paso County, unknown cause of death, unknown circumstances, 1995
 http://www.doenetwork.org/hot/hotcase/1918.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3724
+https://www.namus.gov/UnidentifiedPersons/Case#/3724
 
 #### -HC 1669-Fort Worth, unknown cause of death, found in abandoned church, 1995
 http://www.doenetwork.org/hot/hotcasel669.html
@@ -7439,16 +7440,13 @@ http://www.doenetwork.org/hot/hotcasel669.html
 #### -129UMTX-Fort Worth, unknown cause of death, unknown circumstances, 1995
 http://www.doenetwork.org/cases/129umtx.html
 
-
-
 #### -604UMTX/3684-Odessa, death by unspecified homicide, infant found in trash, 1996
 http://www.doenetwork.org/cases/604umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3684
 
 #### -HC1919/3677-E1 Paso, unknown cause of death, unknown circumstances, 1996
 http://www.doenetwork.org/hot/hotcase/1919.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3677
+https://www.namus.gov/UnidentifiedPersons/Case#/3677
 
 #### -HC1920/3676-El Paso County, unknown cause of death, found in river, 1996
 http://www.doenetwork.org/hot/hotcasel920.html
@@ -7456,21 +7454,22 @@ http://www.doenetwork.org/hot/hotcasel920.html
 #### -HC2033/3675-Waller, unknown cause of death, infant found under bridge, 1996
 http://www.doenetwork.org/hot/hotcase2033.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3675
+
 #### -180UMTX-Plano, homicide by firearm, found off of highway, 1997
 http://www.doenetwork.org/cases/180umtx.html
 
 #### -HC2072/3660-Jefferson County, unknown cause of death, found in ocean, 1997
 http://www.doenetwork.org/hot/hotcase2072.html
-https://www.namus.gov/UnidentifiedPersons/Case#/36 60
+https://www.namus.gov/UnidentifiedPersons/Case#/3660
 
 #### -HC1921/3659-E1 Paso County, unknown cause of death, found in canal, 1997
 http://www.doenetwork.org/hot/hotcasel921.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3659
 
 #### -Hcl673/3635-Campbellton, struck by vehicle on highway, 1997
-
 http://www.doenetwork.org/hot/hotcase/1673.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3635
+
 #### -1347UMTX-Houston, unknown cause of death, found in field, 1997
 http://www.doenetwork.org/cases/1347umtx.html
 
@@ -7497,10 +7496,10 @@ http://www.doenetwork.org/hot/hotcase2053.html
 http://www.doenetwork.org/cases/248umtx.htm1
 
 #### -1076UMTX-Brazoria County, unknown cause of death, unknown circumstances, 1998
-http://www.doenetwork.org/ cases/1076umtx.html
+http://www.doenetwork.org/cases/1076umtx.html
 
 #### -1517UMTX-Van Zandt County, unknown cause of death, unknown circumstances, 1998
-http://www.doenetwork.org/ cases/1517umtx.html
+http://www.doenetwork.org/cases/1517umtx.html
 
 #### -430UMTX/3568-Houston, homicide by firearm, unknown circumstances, 1998
 http://www.doenetwork.org/cases/430umtx.html
@@ -7521,11 +7520,10 @@ http://www.doenetwork.org/cases/250umtx.html
 
 #### -443UMTX-Hudspeth County, unknown cause of death, found in desert, 2000
 http://www.doenetwork.org/cases/443umtx.htm1
+
 #### -249UMTX/3478-Galveston, struck by vehicle, 2000
 http://www.doenetwork.org/cases/249umtx.htm1
 https://www.namus.gov/UnidentifiedPersons/Case#/3478
-
-
 
 #### -HC1503/770-Wharton County, killed in auto wreck alongside HC1504, 2000
 http://www.doenetwork.org/hot/hotcasel503.html
@@ -7545,7 +7543,8 @@ http://www.doenetwork.org/cases/441umtx.html
 http://www.doenetwork.org/hot/hotcase/1657.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3438
 
-#### -HC1278-Duncanville, homicide by firearm, found in private residence, 2001http://www.doenetwork.org/hot/ho tease 1276.html
+#### -HC1278-Duncanville, homicide by firearm, found in private residence, 2001
+http://www.doenetwork.org/hot/hotcase1276.html
 
 #### -HC997-Dallas, unknown cause of death, found in canal, 2002
 http://www.doenetwork.org/hot/hotcase997.html
@@ -7555,12 +7554,10 @@ http://www.doenetwork.org/cases/1152umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3312
 
 #### -HC1923/3308-E1 Paso, unknown cause of death, found in canal, 2002
-
 http://www.doenetwork.org/hot/hotcase/1923.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3308
 
 #### -HC1018-Dallas, struck by vehicle, 2002
-
 http://www.doenetwork.org/hot/hotcase/1018.html
 
 #### -943UMTX-Fort Worth, homicide by blunt force trauma, found on street, 2002
@@ -7606,19 +7603,15 @@ http://www.doenetwork.org/cases/646umtx.html
 #### -HC978-Dallas, unknown cause of death, found in creek, 2002
 http://www.doenetwork.org/hot/hotcase978.html
 
-
 #### -476UMTX-Irving, homicide by dismemberment, found at construction site, 2002
-
-
-www.doenetwork.org/cases/476umtx.html
+http://www.doenetwork.org/cases/476umtx.html
 
 #### -11065UMTX-Columbus, unknown cause of death, found off of roadway, 2003
 http://www.doenetwork.org/cases/1105umtx.html
 
 #### -3054UMTX/1798-Harris County, unknown cause of death, found on side of road, 2003
 http://www.doenetwork.org/cases/3054umtx.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/1798
+https://www.namus.gov/UnidentifiedPersons/Case#/1798
 
 #### -3053UMTX/3253-E1 Paso, unknown cause of death, found in canal, 2003
 http://www.doenetwork.org/cases/3053umtx.html
@@ -7635,7 +7628,7 @@ http://www.doenetwork.org/cases/3050umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/1736/
 
 #### -242UMTX-Fort Worth, homicide by firearm, found in unspecified hole, 2004
-www.doenetwork.org/cases/242umtx.htm1
+http://www.doenetwork.org/cases/242umtx.htm1
 
 #### -747UMTX-Bexar County, homicide by firearm, unknown circumstances, 2004
 http://www.doenetwork.org/cases/747umtx.html
@@ -7694,7 +7687,6 @@ http://www.doenetwork.org/cases/1518umtx.html
 http://www.doenetwork.org/cases/1520umtx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/992
 
-
 #### -1519UMTX-E1 Paso County, death by drowning, found in canal, 2008
 http://www.doenetwork.org/cases/1519umtx.html
 
@@ -7722,7 +7714,6 @@ http://www.doenetwork.org/cases/833uftx.html
 #### -1210UFTX/7184-Chambers County, struck by vehicle, 1980
 http://www.doenetwork.org/cases/1210uftx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/7184
-
 
 #### -88UFTX/4626-George West, unknown cause of death, found next to creek, 1980
 http://www.doenetwork.org/cases/88uftx.html
@@ -7769,25 +7760,23 @@ http://www.doenetwork.org/cases/1355uftx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4140
 
 #### -357UFTX-Garlan,d struck by vehicle, 1987
-
 http://www.doenetwork.org/cases/357uftx.html
 
-#### -1203UFTX/4088-San Antonio, homicide by blunt force trauma, found in wooded area off of roadway,
-1987
+#### -1203UFTX/4088-San Antonio, homicide by blunt force trauma, found in wooded area off of roadway, 1987
 http://www.doenetwork.org/cases/1203uftx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4088
 
 #### -80UFTX/4065-Dallas County, unknown cause of death, unknown circumstances, 1988
 http://www.doenetwork.org/cases/80uftx.html
-https://www.namus.gov/UnidentifiedPersons/Case#/40 65
+https://www.namus.gov/UnidentifiedPersons/Case#/4065
+
 #### -71UFTX/4060-Dallas, homicide by strangulation, found in creek, 1988
 http://www.doenetwork.org/cases/71uftx.html
-https://www.namus.gov/UnidentifiedPersons/Case#/40 60
+https://www.namus.gov/UnidentifiedPersons/Case#/4060
 
 #### -1353UFTX/911-Harris County, unknown cause of death, found in abandoned house, 1989
 http://www.doenetwork.org/cases/1353uftx.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/991
+https://www.namus.gov/UnidentifiedPersons/Case#/991
 
 #### -74UFTX/4023-Williamson County, homicide by firearm, found off of highway, 1989
 http://www.doenetwork.org/cases/74uftx.html
@@ -7795,8 +7784,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4023
 
 #### -95UFTX/926-Houston, unknown cause of death, found in street, 1989
 http://www.doenetwork.org/cases/95uftx.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/926
+https://www.namus.gov/UnidentifiedPersons/Case#/926
 
 #### -96UFTX/2171-Houston, homicide by firearm, found on urban trail, 1989
 http://www.doenetwork.org/cases/96uftx.html
@@ -7806,38 +7794,33 @@ https://www.namus.gov/UnidentifiedPersons/Case#/2171
 http://www.doenetwork.org/cases/103uftx.html
 
 #### -1327UFTX/2191-Houston, death by unspecified homicide, found on the side of highway, 1991
-
 http://www.doenetwork.org/cases/1327uftx.html
-http s://www.namus.gov/UnidentifiedPersons/Case#/2191
+https://www.namus.gov/UnidentifiedPersons/Case#/2191
 
 #### -1347UFTX/614-Houston, death by unspecified homicide, unknown circumstances, 1994
 http://www.doenetwork.org/cases/1347uftx.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/614
+https://www.namus.gov/UnidentifiedPersons/Case#/614
 
 #### -217UFTX/3625-Dallas, unknown cause of death, found in creek, 1997
 http://www.doenetwork.Org/cases/217uftx.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3625
+https://www.namus.gov/UnidentifiedPersons/Case#/3625
 
 #### -253UFTX/3612-Collin County, homicide by firearm, found in lake, 1998
 http://www.doenetwork.org/cases/253uftx.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3612
+https://www.namus.gov/UnidentifiedPersons/Case#/3612
 
 #### -1336UFTX/3595-Conroe County, unknown cause of death, found in wooded area, 1998
-
 http://www.doenetwork.org/cases/1336uftx.html
-
-http s://www.namus.gov/UnidentifiedPersons/Case#/3595
+https://www.namus.gov/UnidentifiedPersons/Case#/3595
 
 #### -641UFTX/3467-Kilgore, unknown cause of death, found in wooded area next to railroad, 2000
-http://www.doenetwork.org/cases/641 uftx.html
+http://www.doenetwork.org/cases/641uftx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3467
 
 #### -927UFTX/1826-Ellis County, unknown cause of death, found in creek, 2001
 http://www.doenetwork.org/cases/927uftx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/1826
+
 #### -1343UFTX/3313-Houston, homicide by negligence, infant found in ditch, 2002
 http://www.doenetwork.org/cases/1343uftx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/3313
@@ -7846,7 +7829,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/3313
 http://www.doenetwork.org/cases/699uftx.html
 https://www.namus.gov/UnidentifiedPersons/Case#/1734
 
-Utah:
+# [Utah](#Utah)
 
 #### -114UMUT/8514-Kane County, unknown cause of death, found in ravine, 1994
 http://www.doenetwork.org/cases/114umut.html
@@ -7860,19 +7843,17 @@ https://www.namus.gov/UnidentifiedPersons/Case#/6948
 http://www.doenetwork.org/cases/1411 ufut.html
 https://www.namus.gov/UnidentifiedPersons/Case#/12137
 
-Vermont:
+# [Vermont](#Vermont)
 
-#### -2516UMVT13506-Middlebury, homicide by firearm, found off of logging road with 2517UMVT and
-
-
-1226UFVT, 1935
+#### -2516UMVT13506-Middlebury, homicide by firearm, found off of logging road with 2517UMVT and 1226UFVT, 1935
 http://www.doenetwork.org/cases/2516umvt.html
 https://www.namus.gov/UnidentifiedPersons/Case#/13506
+
 #### -1228UFVT/10004-Danby, unknown cause of death, found off of roadway, 2012
 http://www.doenetwork.org/cases/1228ufvt.html
 https://www.namus.gov/UnidentifiedPersons/Case#/10004
 
-Virginia:
+# [Virginia](#Virginia)
 
 #### -601UMVA/6483-Great Falls, unknown cause of death, found in wooded area, 1974
 http://www.doenetwork.org/cases/601umva.html
@@ -7973,7 +7954,6 @@ https://www.namus.gov/UnidentifiedPersons/Case#/2627
 http://www.doenetwork.org/cases/247ufva.html
 https://www.namus.gov/UnidentifiedPersons/Case#/6629
 
-
 #### -702UFVA/2227-Petersburg, death by heart attack, found on access road to hospital, 1992
 http://www.doenetwork.org/cases/702ufva.html
 https://www.namus.gov/UnidentifiedPersons/Case#/2227
@@ -7983,7 +7963,6 @@ http://www.doenetwork.org/cases/902ufva.html
 https://www.namus.gov/UnidentifiedPersons/Case#/789
 
 #### -504UFVA/6470-Mclean, homicide by firearm, found in wooded area, 2001
-
 http://www.doenetwork.org/cases/504ufva.html
 https://www.namus.gov/UnidentifiedPersons/Case#/6470
 
@@ -7991,7 +7970,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/6470
 http://www.doenetwork.org/cases/765ufva.html
 https://www.namus.gov/UnidentifiedPersons/Case#/788
 
-Washington:
+# [Washington](#Washington)
 
 #### -1668UMWA/333-Spokane, death by heart disease, found on the shores of the river, 1961
 http://www.doenetwork.org/cases/1668umwa.html
@@ -8001,13 +7980,11 @@ https://www.namus.gov/UnidentifiedPersons/Case#/333
 http://www.doenetwork.org/cases/1669umwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/334
 
-
 #### -1670UMWA/335-Spokane, possible death by drowning, found in river, 1963
 http://www.doenetwork.org/cases/1670umwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/335
 
 #### -1671UMWA/336-Spokane, fell from the train, 1964
-
 www.doenetwork.org/cases/167lumwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/336
 
@@ -8029,7 +8006,6 @@ https://www.namus.gov/UnidentifiedPersons/Case#/342
 #### -1675UMWA/457-Spokane, homicide by blunt force trauma and incineration, 1980
 http://www.doenetwork.org/cases/1675umwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/457
-
 
 #### -1841UMWA-Skagit County, homicide by firearm, found in rural wooded area, 1980
 http://www.doenetwork.org/cases/1841umwa.html
@@ -8059,7 +8035,6 @@ http://www.doenetwork.org/cases/862umwa.html
 http://www.doenetwork.org/cases/1843umwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/5704
 
-
 #### -1844UMWA-Chelan County, struck by train, 1987
 http://www.doenetwork.org/cases/1844umwa.html
 
@@ -8085,9 +8060,9 @@ http://www.doenetwork.org/cases/1846umwa.html
 #### -1284UMWA/492-Spokane, death by pneumonia, found in wooded area, 1992
 http://www.doenetwork.org/cases/1284umwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/492
+
 #### -367UMWA-Seattle, unknown cause of death, found in wooded area, 1994
 http://www.doenetwork.org/cases/367umwa.html
-
 
 #### -359UMWA-Grayland, unknown cause of death, found on beach, 1997
 http://www.doenetwork.org/cases/359umwa.html
@@ -8144,7 +8119,6 @@ https://www.namus.gov/UnidentifiedPersons/Case#/5692
 http://www.doenetwork.org/cases/159ufwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/12916
 
-
 #### -923UFWA/11755-Wahkiakum County, unknown cause of death, found near river, 1998
 http://www.doenetwork.org/cases/923ufwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/11755
@@ -8153,7 +8127,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/11755
 http://www.doenetwork.org/cases/924ufwa.html
 https://www.namus.gov/UnidentifiedPersons/Case#/5673
 
-Washington D.C.:
+# [Washington D.C.](#Washington D.C.)
 
 #### -2784UMDC/13808-Washington D.C., unknown cause of death, found in alleyway, 2003
 http://www.doenetwork.org/cases/2784umdc.html
@@ -8161,19 +8135,17 @@ https://www.namus.gov/UnidentifiedPersons/Case#/13808
 
 #### -2785UMDC/13363-Washington D.C., unknown cause of death, found in a garage, 2003
 http://www.doenetwork.org/cases/2785umdc.html
-https://www. namus.gov/UnidentifiedPersons/Case#/13363
+https://www.namus.gov/UnidentifiedPersons/Case#/13363
 
 #### -2786UMDC/14414-Washington D.C., unknown cause of death, unknown circumstances, 2003
 http://www.doenetwork.org/cases/2786umdc.html
-https://ww. amus. ovU ndentifiedPersons/C ae#/14414
+https://www.namus.gov/UndentifiedPersons/Case#/14414
 
 #### -2787UMDC/13383-Washington D.C., unknown cause of death, unknown circumstances, 2003
 http://www.doenetwork.org/cases/2787umdc.html
-https://ww. amus. ovU ndentifiedPersons/C ae#/13383
+https://www.namus.gov/UndentifiedPersons/Case#/13383
 
-
-#### -2788UMDC/14525-Washington D.C., unknown cause of death, found in bedroom of private home,
-2004
+#### -2788UMDC/14525-Washington D.C., unknown cause of death, found in bedroom of private home,2004
 http://www.doenetwork.org/cases/2788umdc.html
 https://www.namus.gov/UnidentifiedPersons/Case#/14525
 
@@ -8187,11 +8159,11 @@ https://www.namus.gov/UnidentifiedPersons/Case#/13781
 
 #### -2793UMDC/13784-Washington D.C., unknown cause of death, found near creek, 2006
 http://www.doenetwork.org/cases/2793umdc.html
-https://www. namus.gov/UnidentifiedPersons/Case#/13784
+https://www.namus.gov/UnidentifiedPersons/Case#/13784
 
 #### -2794UMDC/14254-Washington D.C., unknown cause of death, unknown circumstances, 2006
 http://www.doenetwork.org/cases/2794umdc.html
-https://ww. amus. ovU ndentifiedPersons/C ae#/14254
+https://www.namus.gov/UndentifiedPersons/Case#/14254
 
 #### -2796UMDC/2884-Washington D.C., unknown cause of death, skull found in bag carried by someone,
 other remains found nearby, 2007
@@ -8205,7 +8177,7 @@ http://www.doenetwork.org/cases/432ufdc.html
 http://www.doenetwork.org/cases/1315ufdc.html
 https://www.namus.gov/UnidentifiedPersons/Case#/871
 
-West Virginia:
+# [West Virginia](#West Virginia)
 
 #### -3118UMWV/14231-Jefferson County, homicide by firearm, unknown circumstances, 1986
 http://www.doenetwork.Org/cases/3118umwv.html
@@ -8231,7 +8203,7 @@ https://www.namus.gov/UnidentifiedPersons/Case#/5540
 http://www.doenetwork.org/cases/3137umwv.html
 https://www.namus.gov/UnidentifiedPersons/Case#/14239
 
-Wisconsin:
+# [Wisconsin](#Wisconsin)
 
 #### -1656UMWI/4744-Eau Claire, unknown cause of death, inside shipping container, 2001
 http://www.doenetwork.org/cases/1656umwi.html
@@ -8248,15 +8220,19 @@ https://www.namus.gov/UnidentifiedPersons/Case#/4770
 #### -1760UMWI/4779-Chippewa County, possible death from exposure, infant, 1987
 http://www.doenetwork.org/ cases/1760umwi.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4779
+
 #### -1508UMWI/4782-Oak Creek, floating in Lake Michigan, 1986
 http://www.doenetwork.org/cases/1508umwi.html
 https://www.namus.gov/UnidentifiedPersons/Case#/4782
+
 #### -1377UMWI-Waukesha, child found in rock quarry, 1921
-http://www.doenetwork.org/cases/1377umwi.html-1764UMWI/7710-Milwaukee, found in river with limbs severed, 1975
+http://www.doenetwork.org/cases/1377umwi.html
+
+#### -1764UMWI/7710-Milwaukee, found in river with limbs severed, 1975
 http://www.doenetwork.org/cases/1764umwi.html
 https://www.namus.gov/UnidentifiedPersons/Case#/7710
 
-Wyoming:
+# [Wyoming](#Wyoming)
 
 #### -2466UMWY/10781-Cheyenne, unknown cause of death, infant found in drainage pipe, 1988
 http://www.doenetwork.org/cases/2466umwv.html
