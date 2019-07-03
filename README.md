@@ -8177,7 +8177,7 @@ http://www.doenetwork.org/cases/432ufdc.html
 http://www.doenetwork.org/cases/1315ufdc.html
 https://www.namus.gov/UnidentifiedPersons/Case#/871
 
-# [West Virginia](#West Virginia)
+# [West Virginia](#West-Virginia)
 
 #### -3118UMWV/14231-Jefferson County, homicide by firearm, unknown circumstances, 1986
 http://www.doenetwork.Org/cases/3118umwv.html
